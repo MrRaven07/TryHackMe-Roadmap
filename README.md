@@ -2,11 +2,12 @@
 A personal roadmap on tryhackme with completed lessons and other things related 
 
 
-### Rooms that i'm interested in
+### Walkthrough rooms:
 
-- [ ] **Bash Scripting** (`Easy`)
+- [x] **Bash Scripting** (`Easy`)
   - *Description:* A Walkthrough room to teach you the basics of bash scripting.
   - *Tags:* Free, Walkthrough
+  - *Review:* Very informative, easy to comprehend. Includes further readings. The room could be improved by adding more exercises between the tasks.
 
 - [ ] **Threat Hunting: Introduction** (`Easy`)
   - *Description:* Behind the scenes of Threat Hunting - mindset, process, and goals.
